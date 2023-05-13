@@ -1,0 +1,14 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.app {
+  background: #141b2f;
+  color: #ffffff;
+}
+
+.main-layout{
+  margin-top: 5rem;
+  margin-bottom: 2rem;
+}
