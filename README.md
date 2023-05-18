@@ -1,3 +1,5 @@
+deploy:-(https://admirable-khapse-48c71f.netlify.app/)
+
 The resort's website is an important marketing and customer service tool. A well-designed website can advertise the resort's qualities and services to potential guests and make the reservation process easy.
 The primary goal of our website is to connect vacation-seekers with luxurious places to stay so they may enjoy their downtime in style.
 The majority of travellers have no idea what to expect from the hotels they're considering, and if they don't like the vibe at their hotel, they may get a negative impression of their destination as a result.
